@@ -1,2 +1,2 @@
-# firstsite.github.io
+# firstsite
 learning!
